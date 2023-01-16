@@ -6,4 +6,4 @@ I'm student from Rajamangala University of Technology Lanna major of Computer En
 C Ardunio (This is main languege)
 PLC
 
-![GitHub Stats](https://github-readme-stats.vercel.ap... &theme=radical)
+![Santi GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
