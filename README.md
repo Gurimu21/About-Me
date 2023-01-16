@@ -4,6 +4,6 @@ I'm student from Rajamangala University of Technology Lanna major of Computer En
 
 # Coding languege
 C Ardunio (This is main languege)
-PLC
+PLC (1 year ago)
 
 ![Santi GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
